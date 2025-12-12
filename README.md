@@ -34,8 +34,16 @@ Apaixonado por tecnologia, gosto de criar interfaces modernas, funcionais e intu
 - 🎬 [**CineData**](https://github.com/Gabrar/cine-data)  
   Database de filmes e séries que consome a API do OMDb, exibindo pôster, sinopse, ano e nota do IMDb.
 
-- 👨‍🏫 [**Empréstimos-DTI**](https://github.com/Gabrar/emprestimos-professores)
-  Sistema de empréstimos de materiais
+- 👨‍🏫 [**Empréstimos-DTI**](https://github.com/Gabrar/emprestimos-dti)
+  Sistema de automatização de empréstimo de materiais para docentes de uma universidade.
+  <div style="display: inline-block"> <br/>
+
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    
+  </div>
 
 - 🌐 [**Portfólio WEB**](Em breve...!)
 
