@@ -22,34 +22,6 @@ Apaixonado por tecnologia, gosto de criar interfaces modernas, funcionais e intu
 
 </div>
 
----
-
-## 📌 Projetos em Destaque
-
-- 🎬 [**CineData**](https://github.com/Gabrar/cine-data)  
-  Database de filmes e séries que consome a API do OMDb, exibindo pôster, sinopse, ano e nota do IMDb.
-  <div style="display: inline-block">
-    
-    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-  <div/>
-
-- 👨‍🏫 [**Empréstimos-DTI**](https://github.com/Gabrar/emprestimos-dti)
-  Sistema de automatização de empréstimo de materiais para docentes de uma universidade.
-  <div style="display: inline-block">
-
-    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    
-  </div>
-
-- 🌐 [**Portfólio WEB**](Em breve...!)
-
----
-
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrar&show_icons=true&theme=radical)
