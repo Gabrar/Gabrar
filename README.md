@@ -4,7 +4,7 @@ Sou **Desenvolvedor Frontend especializado em React**, em transição para **Ful
 Apaixonado por tecnologia, gosto de criar interfaces modernas, funcionais e intuitivas. 🚀
 
 <div>
-  <a href="portfolio-gabrar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a> 
+  <a href="https://portfolio-gabrar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/arturferreeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
