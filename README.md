@@ -5,7 +5,7 @@ Apaixonado por tecnologia, gosto de criar interfaces modernas, funcionais e intu
 
 <div>
   <a href="https://portfolio-gabrar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/arturferreeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-dias-siqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ## 🚀 Tecnologias e Ferramentas
