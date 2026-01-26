@@ -1,18 +1,7 @@
-# 👋 Olá, eu sou o Mano Gabrar!
+# 👋 Olá, me chamo Gabriel!
 
 Sou **Desenvolvedor Frontend especializado em React**, em transição para **Full Stack Junior**.  
 Apaixonado por tecnologia, gosto de criar interfaces modernas, funcionais e intuitivas. 🚀
-
----
-
-## 🧑‍💻 Sobre mim
-- 🌎 Moro no Brasil
-- 🎓 Estudando **Desenvolvimento Full Stack**
-- ⚡ Interesse em **React, Node.js, APIs e Banco de Dados**
-- 💼 Aberto a oportunidades como **Desenvolvedor Júnior**
-- 🎯 Meta atual: construir projetos reais para meu portfólio e evoluir como Full Stack
-
----
 
 ## 🚀 Tecnologias e Ferramentas
 <div style="display: inline_block"><br/>
