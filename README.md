@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Gabriel!
 
-Sou **Desenvolvedor Frontend especializado em React**, em transição para **Full Stack Junior**.  
+Sou um **Desenvolvedor Fullstack Junior**, focado em **Desenvolvimento Web**.  
 Apaixonado por tecnologia, gosto de criar interfaces modernas, funcionais e intuitivas. 🚀
 
 <div>
