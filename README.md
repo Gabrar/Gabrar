@@ -4,7 +4,7 @@ Sou **Desenvolvedor Frontend especializado em React**, em transição para **Ful
 Apaixonado por tecnologia, gosto de criar interfaces modernas, funcionais e intuitivas. 🚀
 
 <div>
-  <a href="https://portfolio-gabrar.vercel.app" target="_BLANK"><img src="[https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://img.shields.io/badge/PORTFOLIO-black)"></a> 
+  <a href="https://portfolio-gabrar.vercel.app" target="_BLANK"><img src="https://img.shields.io/badge/PORTFOLIO-black"></a> 
   <a href="https://www.linkedin.com/in/gabriel-dias-siqueira/" target="_BLANK"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
