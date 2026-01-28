@@ -1,7 +1,6 @@
 # 👋 Olá, me chamo Gabriel!
 
 Sou um **Desenvolvedor Fullstack Junior**, focado em **Desenvolvimento Web**.  
-Apaixonado por tecnologia, gosto de criar interfaces modernas, funcionais e intuitivas. 🚀
 
 <div>
   <a href="https://portfolio-gabrar.vercel.app" target="_BLANK"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge"></a> 
