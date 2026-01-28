@@ -29,7 +29,6 @@ Sou um **Desenvolvedor Fullstack Junior**, focado em **Desenvolvimento Web**.
 ---
 
 ## 📬 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-dias-siqueira/)  
 - 📧 Email: gabriel2026diasss@gmail.com 
 
 ---
