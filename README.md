@@ -21,11 +21,6 @@ Sou um **Desenvolvedor Fullstack Junior**, focado em **Desenvolvimento Web**.
 
 </div>
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrar&layout=compact&theme=radical)
-
 ---
 
 ## 📬 Contato
